@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">LocalWeather</string>
+    <string name="weather_now">weather now</string>
+    <string name="pressure_hpa">Pressure hPa</string>
+    <string name="humidity">Humidity %</string>
+    <string name="wind_m_s">Wind m/s</string>
 </resources>
