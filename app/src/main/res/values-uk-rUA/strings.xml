@@ -1,3 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Мсцева Погода</string>
+    <string name="weather_now">Погода зараз</string>
+    <string name="pressure_hpa">тиск гПа</string>
+    <string name="humidity">вологость %</string>
+    <string name="wind_m_s">вітер м/с</string>
 </resources>

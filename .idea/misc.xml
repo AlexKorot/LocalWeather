@@ -4,6 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/User/AndroidStudioProjects/LocalWeather2/app/src/main/res/drawable-v24/backgraund_card_gradient.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/LocalWeather2/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/LocalWeather2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/LocalWeather2/app/src/main/res/drawable-v24/ic_round_visibility.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/LocalWeather2/app/src/main/res/drawable/ic_clear_cloudy.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/LocalWeather2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1388888888888889" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/LocalWeather2/app/src/main/res/drawable/ic_sunny.xml" value="0.1388888888888889" />
         <entry key="..\:/Users/User/AndroidStudioProjects/LocalWeather2/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>

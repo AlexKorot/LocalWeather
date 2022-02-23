@@ -1,3 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Местная погода</string>
+    <string name="weather_now">Погода сейчас</string>
+    <string name="pressure_hpa">давление гПа</string>
+    <string name="humidity">влажность %</string>
+    <string name="wind_m_s">ветер м/с</string>
 </resources>
