@@ -4,4 +4,6 @@
     <string name="pressure_hpa">Pressure hPa</string>
     <string name="humidity">Humidity %</string>
     <string name="wind_m_s">Wind m/s</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

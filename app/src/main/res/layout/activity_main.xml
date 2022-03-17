@@ -8,7 +8,8 @@
     android:background="@drawable/backgraund_card_gradient"
     tools:context=".MainActivity">
 
-    <androidx.cardview.widget.CardView
+
+   <!-- <androidx.cardview.widget.CardView
         android:id="@+id/cardVievDetail"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -58,7 +59,7 @@
         android:layout_marginTop="16dp"
         android:layout_marginEnd="32dp"
         app:cardBackgroundColor="@color/back_cardview"
-        app:cardCornerRadius="20dp"
+        app:cardCornerRadius="@dimen/card_radius"
         app:cardElevation="15dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -171,7 +172,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="45dp"
         android:layout_marginEnd="45dp"
-        android:visibility="invisible"
+        android:visibility="gone"
 
         app:cardBackgroundColor="@color/white"
         app:cardCornerRadius="20dp"
@@ -282,7 +283,22 @@
             </LinearLayout>
 
         </LinearLayout>
-    </androidx.cardview.widget.CardView>
+    </androidx.cardview.widget.CardView>-->
 
 
+    <FrameLayout
+        android:id="@+id/place_holder"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+<!--
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Button" />-->
+    </FrameLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
